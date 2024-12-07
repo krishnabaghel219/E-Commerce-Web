@@ -1,7 +1,6 @@
 * {
     margin: 0;
     padding: 0;
-    /* box-sizing: border-box; */
     display:flexbox;
 }
 
@@ -210,7 +209,6 @@ footer {
     font-size: 30px;
     width: 22%;
     padding: 20px;
-    /* box-sizing: border-box; */
 }
 .quick-links a{
 text-decoration: none;
